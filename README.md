@@ -1,2 +1,2 @@
 # Blok-Destroyer
- Destroy bloks!
+ Assets -> Scripts
